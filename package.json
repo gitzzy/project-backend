@@ -19,5 +19,16 @@
   },
   "devDependencies": {
     "nodemon": "^3.0.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bhoomika84awasthi/project-backend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bhoomika84awasthi/project-backend/issues"
+  },
+  "homepage": "https://github.com/bhoomika84awasthi/project-backend#readme"
 }

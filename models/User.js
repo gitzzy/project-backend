@@ -27,7 +27,7 @@ const userSchema = new mongoose.Schema({
     required: true,
   },
   employeeCount: {
-    type: Number,
+    type: String,
     required: true,
   },
   createdAt: {
